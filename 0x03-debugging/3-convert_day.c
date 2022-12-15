@@ -1,4 +1,4 @@
-#include "3-main_b.c"
+#include "main.h"
 
 /*
  * convert_day - converts day of month to day of year, without accounting
